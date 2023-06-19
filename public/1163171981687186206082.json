@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799916358579",
+    "project_id": "manhwa-reader-comics",
+    "storage_bucket": "manhwa-reader-comics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799916358579:android:feeae19e42c6c84b61a9c6",
+        "android_client_info": {
+          "package_name": "com.garangankimcil.mnhrdrcmcns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799916358579-jdtni3he7fh3cmni08vqim9sj545u2nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrnE4zQI66lCBzSU9_02z7Hdehi3yG9RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799916358579-jdtni3he7fh3cmni08vqim9sj545u2nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
